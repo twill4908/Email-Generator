@@ -1,0 +1,10 @@
+How does your experience and aspirations make you fit for this role?
+ 
+My alignment is in Data and AI, my experience as an analyst on my previous projects makes me fit for this role. I was on a team to solve address cleanup issues for a telecommunication company. This was achieved assessing the current state, identifying the client's requirements, and defining the future state solution. I gathered information from researching, note taking, and meeting with the client and various teams to figure out the different scenarios of problems. I also worked on an MDM team for a healthcare company doing data profiling in Excel, the analysis, building source to target mappings, supporting automatic and manual match rules to improve data proficiency and minimized the workload for the data stewards. Lastly I have experience with building KPI's, metrics, columns, relationships models in Power BI and doing validation in SQL Developer.
+ 
+I also have experience as a Data Analyst Intern for an insurance company. where I lead a team involving 3 data analyst and 2 data engineers. I was responsible for tracking, delegating, supporting the team and collaborating with my team to build reports and documents on the claims and losses for the car warranty department. Lastly, in a database course I took in college gave me the experience I need for Microsoft Power BI (tool used for visualization and report), Linux, Excel and Data Analytics, SQL, and Dax which helped me build data driven insights, forecasts and high impact data models. Overall, I believe my problem solving and analytical skill will be of great leverage for this role.
+ 
+ 
+What excites you about this role?
+ 
+I'm excited make an impact on xyz industry. Conducting thorough Requirements Analysis to identify business needs and recommend solutions while collaborating with the team and stakeholders would be such a fun challenge. I'm passionate about problem solving and would love to leverage my troubleshooting and analytical skills.

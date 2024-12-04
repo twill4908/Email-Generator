@@ -1,0 +1,17 @@
+Data Migration Role
+ 
+How does your experience and aspirations make you fit for this role?
+ 
+My alignment is in Data and AI, my experience as an analyst on my previous MDM project where I used SQL to test and ensure Informatica mappings were accurately returning the data correctly, collaborating to build match and merge rules, and supporting the creation of ETL mappings and workflows using Informatica developer, under the guidance of senior team members.
+ 
+I also have data migration exprience for a global pharmaceutical company. I worked in Putty terminal and Hadoop Hive to perform unit testing and analyzing tables via queries. In Big Query I worked on solving defects, building pipelines and repartitioning tables. One main goal of the project was to migrate tables from Hive to GCP Big Query. I also have Linux and data modeling experience from my college course in Database Systems, where I've learned SQL and Dax.
+ 
+Another relevant experencience working in telecomuncation was on a team to solve address cleanup issues. This was achieved by assessing the current state, identifying the client's requirements, and defining the future state solution. I gathered information from researching, note taking, and meeting with the client and various teams to figure out the different scenarios of problems. Then I worked on data profiling in Excel, the analysis, and building reports and relationships models in Power BI and SQL Developer.
+ 
+Overall, I believe my problem solving, and data migration skills will be of great leverage for this role.
+ 
+ 
+ 
+What excites you about this role?
+ 
+I'm excited to make an impact on the xyz industry by assisting in the execution of data migration processes, ensuring accurate and timely data transfer. As well as contributing to the creation and maintenance of technical documentation related to the data migration process. I'm passionate about problem solving and would love to leverage my troubleshooting and ETL skills on this role.

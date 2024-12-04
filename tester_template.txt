@@ -1,0 +1,11 @@
+How does your experience and aspirations make you fit for this role?
+ 
+My alignment is in Data and AI, and my experience as an analyst on my previous project makes me fit for this role.  my experience as an analyst on my previous project involved testing and validating data viewed from client dasboard against the internal data using sql to analyze the data. My prior mdm project where I used SQL to test and ensure Informatica mappings were accurately returning the data correctly, collaborating to build match and merge rules, and supporting the creation of ETL mappings and workflows using Informatica developer, testing the mappings for accuracy via SQL developer, migrating IT code, and documenting it's process.
+ 
+Another role I worked on was a part of a data migration team for a global pharmaceutical company. I worked in Putty terminal and Hadoop Hive to perform unit testing and analyzing tables via queries. In Big Query I worked on solving defects, building pipelines and repartitioning tables. One main goal of the project was to migrate tables from Hive to GCP Big Query. I also have Linux and data modeling experience from my college course in Database Systems, where I've learned SQL and Dax.
+ 
+ 
+ 
+What excites you about this role?
+ 
+I'm excited to make an impact on the xyz industry by getting hands on experience as a role_name and taking my testing and validation experience to the next level and contributing to the overall growth and succes of the project while growing as a SME.
